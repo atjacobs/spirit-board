@@ -89,11 +89,6 @@
     (uuid fcf89643-8170-4a31-b051-a0dd38205d63)
   )
 
-  (text "MCU" (at 168.91 68.58 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 5338f2f4-74a6-4702-9916-a3746e536b61)
-  )
-
   (sheet (at 92.71 21.59) (size 43.18 29.21)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -176,12 +171,12 @@
     )
   )
 
-  (sheet (at 120.65 68.58) (size 52.07 36.83) (fields_autoplaced)
+  (sheet (at 120.65 68.58) (size 52.07 36.83)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid f190c333-cd82-4178-b85c-c6421439c68f)
-    (property "Sheetname" "MCU" (at 120.65 67.8684 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    (property "Sheetname" "MCU" (at 168.91 68.58 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "mcu.kicad_sch" (at 120.65 105.9946 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
