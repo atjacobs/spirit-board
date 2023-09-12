@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "esp_attr.h": "c",
+        "esp32-hal.h": "c",
+        "gpio.h": "c",
+        "esp_intr_alloc.h": "c"
+    }
+}
