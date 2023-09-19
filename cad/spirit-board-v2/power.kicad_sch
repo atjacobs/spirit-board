@@ -315,6 +315,11 @@
     (uuid ff18cf92-fe07-4de3-8fb4-cbb5f51427ff)
   )
 
+  (label "BAT+" (at 180.34 39.37 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5436790a-d814-460e-9ff7-e704b5e482da)
+  )
+
   (hierarchical_label "5V" (shape input) (at 179.705 81.28 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 85f5772e-1492-4ea1-b5ab-458998eb6515)
